@@ -1,0 +1,6 @@
+BRG001,Keripik,40
+BRG002,EsKrim,30
+BRG003,AirMineral,50
+BRG004,AyamGoreng,15
+BRG005,Nasi,20
+BRG006,Indomie,30
