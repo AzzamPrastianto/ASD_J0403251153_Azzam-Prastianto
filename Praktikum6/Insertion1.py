@@ -1,3 +1,8 @@
+# ==========================================================
+# Nama : Azzam Prastianto
+# NIM : J0403251153
+# Kelas : A2
+# ==========================================================
 def insertionSort(data):
     for index in range(1,len(data)):
         
@@ -11,4 +16,5 @@ def insertionSort(data):
 
 data = [54,26,93,17,77,31,44,55,20]
 insertionSort(data)
+
 print(data)
